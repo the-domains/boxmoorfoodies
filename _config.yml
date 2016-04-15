@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.384276
+  lightness: 0.3804508
+  brandStrength: 0.1144193
+  brandColors:
+    - '#0D0C0D'
+    - '#FFFFFF'
+    - '#D0A3A3'
+    - '#6EACF3'
+    - '#C66E04'
+  rhythmicContrast: 0.6572642
+typography_spectrum: 0.2992831
+name: Boxmoorfoodies
