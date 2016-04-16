@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Boxmoorfoodies]]></title>
+        <description><![CDATA[Boxmoorfoodies]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 05:17:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tripadvisor feedback and reviews]]></title>
+            <description><![CDATA[<article><h1>Tripadvisor feedback and reviews</h1><p>https://www.tripadvisor.co.uk/Restaurant_Review-g503869-d7994601-Reviews-Boxmoor_Foodies-Hemel_Hempstead_Hertfordshire_England.html?m=19904</p></article>]]></description>
+            <link>undefinedtripadvisor-feedback-and-reviews/index.html</link>
+            <guid isPermaLink="false">b4dcf8d2-f8de-4b54-9fdf-f93d5d78a6cc</guid>
+            <pubDate>Sat, 16 Apr 2016 05:17:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
