@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Boxmoorfoodies]]></title>
         <description><![CDATA[Boxmoorfoodies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boxmoorfoodies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 05:17:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 05:17:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boxmoorfoodies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d2718a9-0573-4dc8-86cc-5f3bf9303e13.png">]]></description>
+            <link>https://thegrid.ai/boxmoorfoodies/68773540-7937-4b90-91d6-998754ce40d3/index.html</link>
+            <guid isPermaLink="false">68773540-7937-4b90-91d6-998754ce40d3</guid>
+            <pubDate>Sat, 16 Apr 2016 05:17:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tripadvisor feedback and reviews]]></title>
             <description><![CDATA[<article><h1>Tripadvisor feedback and reviews</h1><p>https://www.tripadvisor.co.uk/Restaurant_Review-g503869-d7994601-Reviews-Boxmoor_Foodies-Hemel_Hempstead_Hertfordshire_England.html?m=19904</p></article>]]></description>
-            <link>undefinedtripadvisor-feedback-and-reviews/index.html</link>
+            <link>https://thegrid.ai/boxmoorfoodies/tripadvisor-feedback-and-reviews/index.html</link>
             <guid isPermaLink="false">b4dcf8d2-f8de-4b54-9fdf-f93d5d78a6cc</guid>
             <pubDate>Sat, 16 Apr 2016 05:17:21 GMT</pubDate>
         </item>
